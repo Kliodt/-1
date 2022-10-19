@@ -1,0 +1,49 @@
+total 4
+lrwxr-xr-x  1 s368305  studs    8 20 окт.  01:47 Copy_38 -> gothita6
+-rwxr--rw-  1 s368305  studs   52 20 окт.  01:47 drifloon3
+-rw-r--r--  1 s368305  studs   98 20 окт.  01:47 drifloon3_57
+drwxrwx-wx  4 s368305  studs   10 20 окт.  01:47 gothita6
+----r--r--  1 s368305  studs  136 20 окт.  01:47 muk8
+-rwxrw-rw-  2 s368305  studs   99 20 окт.  01:47 rhyperior3
+drwxrwx-wx  3 s368305  studs    6 20 окт.  01:47 sealeo0
+drwxr-x--x  4 s368305  studs    5 20 окт.  01:47 sentret5
+
+./gothita6:
+total 4
+-rwxr-----  1 s368305  studs  140 20 окт.  01:47 beartic
+-rwxr--r--  1 s368305  studs   52 20 окт.  01:47 bearticdrifloon
+-rwx------  1 s368305  studs   55 20 окт.  01:47 bellossom
+-rwx-w--w-  1 s368305  studs   53 20 окт.  01:47 combee
+lrwxr-xr-x  1 s368305  studs    9 20 окт.  01:47 combeedrifloon -> drifloon3
+-rwxr--r--  1 s368305  studs   38 20 окт.  01:47 haunter
+drwx--x-w-  2 s368305  studs    3 20 окт.  01:47 machop
+drwx-wx---  2 s368305  studs    2 20 окт.  01:47 scyther
+
+./gothita6/machop:
+total 1
+-rwxr--r--  1 s368305  studs  99 20 окт.  01:47 rhyperior3
+
+./gothita6/scyther:
+total 0
+
+./sealeo0:
+total 2
+-rwx---r--  1 s368305  studs  51 20 окт.  01:47 magcargo
+-rwxr--r--  1 s368305  studs  27 20 окт.  01:47 magneton
+-rwxrw-rw-  2 s368305  studs  99 20 окт.  01:47 magnetonrhyperior
+drwxrw-r--  2 s368305  studs   2 20 окт.  01:47 victreebel
+
+./sealeo0/victreebel:
+total 0
+
+./sentret5:
+total 2
+drwx-wxrw-  2 s368305  studs   2 20 окт.  01:47 bayleef
+drwxr-xr-x  2 s368305  studs   2 20 окт.  01:47 blaziken
+-r--------  1 s368305  studs  47 20 окт.  01:47 raticate
+
+./sentret5/bayleef:
+total 0
+
+./sentret5/blaziken:
+total 0
